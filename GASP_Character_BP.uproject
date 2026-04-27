@@ -26,6 +26,22 @@
 		{
 			"Name": "DrawDebugLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "Mover",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPredictionInsights",
+			"Enabled": true
 		}
 	]
 }
