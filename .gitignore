@@ -105,17 +105,8 @@ Content/ThirdPersonTemplate/
 Content/__ExternalActors__/
 Content/__ExternalObjects__/
 
-# Content/Assets 소스 텍스처만 제외 (.uasset 은 추적)
-Content/Assets/**/*.png
-Content/Assets/**/*.dds
-Content/Assets/**/*.tga
-Content/Assets/**/*.jpg
-Content/Assets/**/*.jpeg
-Content/Assets/**/*.bmp
-Content/Assets/**/*.exr
-Content/Assets/**/*.hdr
-Content/Assets/**/*.fbx
-Content/Assets/**/*.obj
+Content/Assets/
+Content/Lyra/
 
 # ============================================
 # UE auto-generated directories
